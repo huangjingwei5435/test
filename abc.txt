@@ -1,0 +1,7 @@
+very nice >abc.txt
+;
+
+very nice >abc.txt
+;
+
+test hash-object -w 
